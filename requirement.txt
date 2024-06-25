@@ -3,3 +3,9 @@ npm install or nmp init -y
 
 To check npm version 
 npm -v
+
+express install cmd
+npm i express
+
+mysql install cmd
+npm i mysql 
