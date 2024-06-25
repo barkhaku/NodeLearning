@@ -1,0 +1,5 @@
+npm-install cmd
+npm install or nmp init -y 
+
+To check npm version 
+npm -v
