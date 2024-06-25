@@ -9,3 +9,6 @@ npm i express
 
 mysql install cmd
 npm i mysql 
+
+install nodemon cmd
+npm i nodemon
